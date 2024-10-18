@@ -1,4 +1,3 @@
-# from curses.ascii import isalpha
 
 import requests
 import os
